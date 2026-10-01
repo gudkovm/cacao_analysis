@@ -1,0 +1,17 @@
+# Виртуальные окружения
+venv/
+.venv/
+
+notebooks/venv/
+.venv/
+
+# Кеши Python
+__pycache__/
+*.pyc
+
+# Кеши Jupyter Notebook
+.ipynb_checkpoints/
+
+# Операционные системы
+.DS_Store
+Thumbs.db
